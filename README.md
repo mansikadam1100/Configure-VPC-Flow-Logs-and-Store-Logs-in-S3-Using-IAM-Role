@@ -195,12 +195,9 @@ Open a sample log file
 In this project, we successfully implemented AWS VPC Flow Logs to capture and analyze network traffic within a VPC. By configuring an IAM role with least-privilege permissions and delivering logs to an Amazon S3 bucket, we achieved a secure and centralized logging solution for auditing, troubleshooting, and monitoring purposes.
 
 ## Author 
- Pooja Jadhav
+ mansi kadam
 
- jadhavpooja87970@gmail.com
+ mansikadam11000@gmail.com
 
-Github: https://github.com/iampooja-jadhav
+Github: https://github.com/mansikadam1100
 
-Linkedin: https://www.linkedin.com/in/pooja-jadhav-69135531b/
-
-Medium : https://medium.com/@jadhavpooja87970
